@@ -22,4 +22,4 @@ d.In order to generate the selected multimodal answer, run the script generate_m
     python generate_multimodal_dataset.py -i merged_queries/query8.xlsx -o outputs/query8.xlsx -a 1 -p 1
     python generate_multimodal_dataset.py -i merged_queries/query9.xlsx -o outputs/query9.xlsx -a 3 -p 1
 
-Note: This dataset is submitted as part of 'NeurIPS 2021 Track Datasets and Benchmarks Round 2'. The code for dataset generation from scratch will be updated here, after it is accepted by NeurIPS. 
+Note: This dataset is submitted as part of 'LREC 2022'. The code for dataset generation from scratch will be updated here, after it is accepted by LREC. 
