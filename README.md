@@ -2,7 +2,7 @@
 DrugEHRQA is the first question answering (QA) dataset containing question-answers from both structured tables and discharge summaries of MIMIC-III. It contains medicine-related queries on patient records.
 
 Please cite the following paper:
-Bardhan, Jayetri, Anthony Colas, Kirk Roberts, and Daisy Zhe Wang. "DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries." arXiv preprint arXiv:2205.01290 (2022).
+Bardhan, J., Colas, A., Roberts, K., & Wang, D. Z. (2022, June). DrugEHRQA: A Question Answering Dataset on Structured and Unstructured Electronic Health Records For Medicine Related Queries. In Proceedings of the 13th Language Resources and Evaluation Conference (pp.1083-1097).
 
 The DrugEHRQA dataset can be accessed as follows:
 
